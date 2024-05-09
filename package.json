@@ -1,0 +1,16 @@
+{
+  "name": "responsive_landing_page",
+  "version": "1.0.0",
+  "description": "Enjoy XD",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "open": "^10.1.0"
+  }
+}
